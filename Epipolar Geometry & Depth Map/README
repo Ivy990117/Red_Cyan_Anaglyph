@@ -1,0 +1,7 @@
+Task 5: 3D geometry
+
+1. set up the ComputerVisionTookit by running: /Task5/ComputerVisionToolkit/cvt_setup.m
+2. Main functions:
+   Stereo Rectification: Stereo_Rectification.m
+   Depth map: Depth_Map.m
+3. Change the points w.r.t. epipolar lines by editing: /Task5/epipolarline_points

@@ -1,0 +1,15 @@
+
+%restoredefaultpath;
+
+% root  = '.';
+%root = '/media/datadisk/work/ros_aerial_mapper/source/RectificationToolkit/ComputerVisionToolkit/';
+root='/Users/liujiaoyang/Documents/MATLAB/Three_Dimensional_Reconstruction/RectificationToolkit-master/ComputerVisionToolkit/';
+addpath(fullfile(root,'m-files'             ));
+addpath(fullfile(root,'m-files','aux_fun'       ));
+addpath(fullfile(root,'thirdparty'          ),'-end');
+
+savepath;
+
+help m-files
+
+
